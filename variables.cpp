@@ -51,7 +51,7 @@ J
 Enter a large number:
 78654356
 Enter your name:
-JIYA
+MAIT
 Enter zero or one randomly:
 0
 VALUES OF ENTERED ASPECTS:
@@ -63,7 +63,7 @@ J
 Size: 1 bytes
 7.86544e+07
 Size: 8 bytes
-JIYA
+MAIT
 Size: 32 bytes
 0
 Size: 1 bytes
